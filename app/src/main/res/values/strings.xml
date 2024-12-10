@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Travel Expenses</string>
+    <string name="distancia">Distância</string>
+    <string name="total_de_quilometros">Total de quilômetros</string>
+    <string name="preco">Preço</string>
+    <string name="preco_por_litro">Preço por litro</string>
+    <string name="autonomia">Autonomia</string>
+    <string name="kms_por_litro">KMs por litro</string>
+    <string name="seu_total_de_gastos_sera_de">Seu total de gastos será de:</string>
+    <string name="calcular">calcular</string>
+    <string name="fill_all_fields">"Preencha todos os campos"</string>
+</resources>
